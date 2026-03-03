@@ -1,0 +1,16 @@
+# Generated outputs (content, hooks, insights, transcripts)
+outputs/
+
+# Input files (may contain private audio/video/transcripts)
+inputs/
+
+# Large data files
+hooks-library.csv
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Env/secrets
+.env
+*.env
